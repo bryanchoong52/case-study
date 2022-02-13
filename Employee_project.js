@@ -1,6 +1,6 @@
 ///<reference types="cypress" />
 
-// Employeeproject.js created with Cypress
+// Employee_project.js created with Cypress
 //
 // Start writing your Cypress tests below!
 // If you're unfamiliar with how Cypress works,
